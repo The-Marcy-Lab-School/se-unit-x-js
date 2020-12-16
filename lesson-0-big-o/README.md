@@ -22,4 +22,4 @@
 3. **Reference**: [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
 ### Lecture Activity
-* [Algorithm Analysis Activity](https://github.com/The-Marcy-Lab-School/se-unit-11/blob/master/lesson-0-big-o/algorithm_exploration_activity.ipynb)
+* [Algorithm Analysis Activity](https://github.com/The-Marcy-Lab-School/se-unit-x-js/blob/master/lesson-0-big-o/algorithm_exploration_activity.md)
