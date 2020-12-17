@@ -17,10 +17,8 @@
 * O(_n_!) - factorial time
 
 ### Learning Assignments
-1. **Tutorial**: [Introduction to Algorithms](https://teamtreehouse.com/library/introduction-to-algorithms) on Treehouse
-  * The code examples are for Python. You do not have to do them, but you should understand the **concepts**
-2. **Reading**: [Cracking the Coding Interview](http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf) Chapter 6 (Chapter VI); pages 38 - 45 (Stop at Examples and Exercises)
-  * The code examples are in Java. You do not have to do them, but you should understand the **concepts**
+1. **Tutorial**: **[Introduction to Algorithms](https://teamtreehouse.com/library/introduction-to-algorithms) on Treehouse.** The code examples are for Python. You do not have to do them, but you should understand the **concepts**
+2. **Reading**: **[Cracking the Coding Interview](http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf) Chapter 6 (Chapter VI); pages 38 - 45 (Stop at Examples and Exercises).** The code examples are in Java. You do not have to do them, but you should understand the **concepts**
 3. **Reference**: [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
 ### Lecture Activity
