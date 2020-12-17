@@ -11,9 +11,9 @@ There are four separate algorithms implemented below:
 3. `binarSearch`
 4. `nestedLoop`
 
-You will invoke each function multiple times with an increasingly large lists. You will write down the number of operations that take place with each invocation in the last column of each table. I have given you a little help by inserting print functions inside of each function so that all you have to do is count the number of times, each function prints a value.
+You will invoke each function multiple times with an increasingly large lists. **You will write down the number of operations that take place with each invocation in the last column of each table**. You can commit to this file directly. I have given you a little help by inserting `console.log` inside of each function so that all you have to do is count the number of times, each function prints a value.
 
-Finally, after you have observed the number of operations for each function call, you will plot them on [this graph](https://www.desmos.com/calculator/rlh5wglbky) to better visualize how they scale.
+Finally, after you have observed the number of operations for each function call, **you will plot them on [this graph](https://www.desmos.com/calculator/rlh5wglbky) to better visualize how they scale.**
 
 ## 1. Append Random
 
