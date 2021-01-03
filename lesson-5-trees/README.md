@@ -20,8 +20,8 @@
 * What data sets are best suited to be represented using a tree?
 
 ## Learning Assignments
-1. **Tutorial:** Python for Data Structures, Algorithms, and Interviews - [_Section 16: Trees_](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3179656#overview) (thru Tree Traversals section)
-2. **Book:** Problem Solving w/ Algorithms and Data Structures in Python - _pp. 231 - 256_
+1. **Tutorial:** JavaScript Algorithms and Data Structures Masterclass - [Section 23: Tree Traversal](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198444#overview)
+
 
 ## Problem Set
 * [Problem Set 11.5](https://github.com/The-Marcy-Lab-School/problem-set-11_5)

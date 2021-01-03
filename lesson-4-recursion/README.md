@@ -13,9 +13,8 @@
 * What are the benefits of writing functions recursively? What are the drawbacks?
 
 ## Learning Assignments
-1. **Book:** _Grokking Algorithms_ - Chapter 3 
-2. **Book:** _Data Structures and Algorithm in Python_ - Chapter 4
-3. **Tutorial:** Python for Data Structures, Algorithms, and Interviews - [Section 15: Recursion](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3179674#overview)
+1. **Book:** _Grokking Algorithms_ - Chapter 3
+2. **Tutorial:** JavaScript Algorithms and Data Structures Masterclass - [Section 7: Recursion](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198354#overview)
 
 ## Problem Set
 * [Problem Set 11.4](https://github.com/The-Marcy-Lab-School/problem-set-11_4)

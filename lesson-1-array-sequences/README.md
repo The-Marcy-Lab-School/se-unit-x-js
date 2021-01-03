@@ -14,4 +14,5 @@
 * amortized analysis
 
 ### Learning Assignments
-* Python for Data Structures, Algorithms, and Interviews - [Section 12: Array Sequences](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3179582#questions)
+* JavaScript Algorithms and Data Structures Masterclass - [Section 3: Analyzing Performance
+of Arrays and Objects](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198496#overview)

@@ -16,9 +16,7 @@
 
 ## Learning Assignments
 * **Book:** _Grokking Algorithms_, pp. 21-31
-* **Tutorial:** Python for Data Structures and Algorithms - [Section 14: Linked Lists](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3179596)
-* **Article:** [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+* **Tutorial:** JavaScript Algorithms and Data Structures Masterclass - [Section 19: Singly Linked Lists](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198408#overview)
 
 ## Problem Set
 * [Problem Set 11.2](https://github.com/The-Marcy-Lab-School/problem-set-11_2_linked_lists)
-

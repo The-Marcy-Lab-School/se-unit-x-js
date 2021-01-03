@@ -3,7 +3,6 @@
 ## Key Terms
 * stack
 * queue
-* deque
 * LIFO
 * FIFO
 
@@ -14,7 +13,7 @@
 
 ## Learning Assignments
 * **Book:** Problem Solving with Algorithms and Data Structures Using Python - [Chapter 3](https://marcy-lab-school.s3.us-east-2.amazonaws.com/DS+and+Algos+Ch.+3.pdf)
-* **Tutorial:** Python for Data Structures, Algorithms, and Interview! - [Section 13: Stacks, Queues, and Deques](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3179604#overview)
+* **Tutorial:** JavaScript Algorithms and Data Structures Masterclass - [Section 21: Stacks and Queues](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198422#overview)
 
 ## Problem Set
 * [Problem Set 11.3](https://github.com/The-Marcy-Lab-School/problem-set-11_3)
