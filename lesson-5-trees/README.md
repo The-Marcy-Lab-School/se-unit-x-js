@@ -21,7 +21,9 @@
 
 ## Learning Assignments
 1. **Tutorial:** JavaScript Algorithms and Data Structures Masterclass - [Section 23: Tree Traversal](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198444#overview)
-
+2. **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
+  * Trees
+  * Binary Search and Search Trees
 
 ## Problem Set
 * [Problem Set 11.5](https://github.com/The-Marcy-Lab-School/problem-set-11_5)
