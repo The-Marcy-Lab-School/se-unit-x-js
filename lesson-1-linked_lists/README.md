@@ -18,9 +18,9 @@
 * **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
   * Introduction to Data Structures
   * Nodes
-  * Singly Linked Lists
-  * Doubly Linked Lists
-  * Linked List Practice
+  * Singly Linked Lists 
+  * Doubly Linked Lists (Optional)
+  * Linked List Practice (Optional)
 
 
 
