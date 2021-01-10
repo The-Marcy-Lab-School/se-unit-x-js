@@ -1,4 +1,4 @@
-Recursion
+# Recursion
 
 ## Key Terms
 * recursion
