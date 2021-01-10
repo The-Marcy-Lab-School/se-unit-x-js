@@ -1,4 +1,4 @@
-# Unit 11 Lesson 4: Recursion
+Recursion
 
 ## Key Terms
 * recursion
