@@ -7,7 +7,7 @@
 * quick sort
 
 ## Essential Question
-* What is the algorithm insertion sort? bubble sort? merge sort? quick sort?
+* What is the algorithm for insertion sort? bubble sort? merge sort? quick sort?
 * What is the run-time complexity for insertion sort? bubble sort? merge sort? quick sort?
 * What is the space complexity for insertion sort? bubble sort? merge sort? quick sort?
 
