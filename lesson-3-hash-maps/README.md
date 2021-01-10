@@ -1,4 +1,4 @@
-# Unit 11 - Lesson 3: Arrays and Hash Maps
+# Arrays and Hash Maps
 
 ### Essential Questions
 * How is array data stored in memory?
@@ -13,7 +13,7 @@
 * amortized analysis
 
 ### Learning Assignments
-* **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
-  * Hashmaps
 * **Reading:** [Arrays and Array in JS](https://medium.com/dev-genius/arrays-and-array-in-javascript-345b4f87a232)
 * **Reading:** [Time Complexities Of Common Array Operations In JavaScript](https://medium.com/@ashfaqueahsan61/time-complexities-of-common-array-operations-in-javascript-c11a6a65a168)
+* **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
+  * Hashmaps
