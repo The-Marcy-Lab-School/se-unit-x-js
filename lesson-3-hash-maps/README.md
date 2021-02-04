@@ -4,7 +4,7 @@
 * How is array data stored in memory?
 * How are object key-value pairs stored in memory?
 * What are the benefits of storing data in an array vs an objects?
-* How can we implement a Hash Maps using: (1) Arrays, (2) Objects, (3) Maps?
+* How can we implement a Hash Maps using: (1) Arrays, (2) Objects?
 * What is a hash collision? When would one happen and how can be prevent them?
 
 ### Key Terms
