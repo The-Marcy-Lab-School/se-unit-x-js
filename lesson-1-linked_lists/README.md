@@ -2,9 +2,9 @@
 
 ## Key Terms
 * abstract data type
+* node
 * singly linked list
 * doubly linked list
-* node
 * random access
 * sequential access
 
@@ -22,5 +22,6 @@
   * Doubly Linked Lists (Optional)
   * Linked List Practice (Optional)
 
-
+## Problem Sets
+* Problem Set: Linked Lists
 
