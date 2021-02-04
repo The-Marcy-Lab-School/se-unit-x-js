@@ -14,7 +14,7 @@
 * What are the tradeoffs between singly linked lists and doubly linked lists?
 * What are the run times for insertion, deletion, and accessing from linked lists?
 
-## Learning Assignments
+## Learning Resources
 * **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
   * Introduction to Data Structures
   * Nodes
@@ -22,6 +22,6 @@
   * Doubly Linked Lists (Optional)
   * Linked List Practice (Optional)
 
-## Problem Sets
+## Assignments
 * Problem Set: Linked Lists
 
