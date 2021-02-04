@@ -1,4 +1,4 @@
-Lesson 0: Algorithm Analysis
+# Lesson 0: Algorithm Analysis
 
 ### Essential Questions
 * What is an algorithm?
