@@ -34,9 +34,3 @@
 * How do testing frameworks make it easier to write effective unit tests?
 * What is a unit test?
 * What is Test-Driven Development?
-
-## Learning Assignments
-* **Documentation:** [PyTest - Getting Started](https://docs.pytest.org/en/latest/getting-started.html)
-
-## Learning Lab
-* [PyTest Lab](https://github.com/The-Marcy-Lab-School/pytest_lab)
