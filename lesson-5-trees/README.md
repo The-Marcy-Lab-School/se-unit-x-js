@@ -1,23 +1,24 @@
-# Unit 11 Lesson 5: Introduction to Trees
-
-## Key Terms
-* tree
-* node
-* edge
-* root
-* path
-* children
-* sibling
-* subtree
-* leaf node
-* level
-* height
-* binary tree
+# Lesson: Trees
 
 ## Essential Question
-* What are the three properties of a tree?
+* What are properties of a tree?
 * Where do we encounter tree data structures in computer science?
 * What data sets are best suited to be represented using a tree?
+
+## Key Terms
+* Tree
+* Node
+* Edge
+* Root
+* Path
+* Children
+* Sibling
+* Subtree
+* Leaf node
+* Level
+* Height
+* Binary tree
+* Binary search tree
 
 ## Learning Assignments
 1. **Tutorial:** JavaScript Algorithms and Data Structures Masterclass - [Section 23: Tree Traversal](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198444#overview)
@@ -26,4 +27,4 @@
   * Binary Search and Search Trees
 
 ## Problem Set
-* [Problem Set 11.5](https://github.com/The-Marcy-Lab-School/problem-set-11_5)
+- [Problem Set: Trees](https://github.com/The-Marcy-Lab-School/problem-set-x-trees)

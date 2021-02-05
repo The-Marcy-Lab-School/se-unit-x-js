@@ -1,4 +1,4 @@
-# Introduction to Unit Testing
+# Lesson: Introduction to Unit Testing
 
 ## Key Terms
 * unit testing
@@ -17,19 +17,14 @@
 * regression error
 
 ## Key Words and Functions
-* `assert`
-* `pytest.approx`
-* `pytest.raises`
-* `@pytest.mark.skip`
+* `describe`
+* `it`
+* `expect`
+* `toBe`
+* `toEqual`
 
 ## Essential Questions
 * What are the benefits of testing?
 * How do testing frameworks make it easier to write effective unit tests?
 * What is a unit test?
 * What is Test-Driven Development?
-
-## Learning Assignments
-* **Documentation:** [PyTest - Getting Started](https://docs.pytest.org/en/latest/getting-started.html)
-
-## Learning Lab
-* [PyTest Lab](https://github.com/The-Marcy-Lab-School/pytest_lab)
