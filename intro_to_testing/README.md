@@ -5,18 +5,11 @@
 * Test-Driven Development (TDD)
 * unit testing framework
 
-  **Popular Python Testing Frameworks**
-
-  * _PyTest_
-  * _unittest_
-  * _nose_
-
   **Popular JavaScript Testing Frameworks**
 
   * _Jest_
   * _Mocha_
   * _Jasmine_
-* PyPI/pip
 * assertion
 * test
 * test suite
