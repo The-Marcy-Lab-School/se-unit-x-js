@@ -1,4 +1,4 @@
-# Introduction to Unit Testing with PyTest
+# Lesson: Introduction to Unit Testing
 
 ## Key Terms
 * unit testing
@@ -24,10 +24,11 @@
 * regression error
 
 ## Key Words and Functions
-* `assert`
-* `pytest.approx`
-* `pytest.raises`
-* `@pytest.mark.skip`
+* `describe`
+* `it`
+* `expect`
+* `toBe`
+* `toEqual`
 
 ## Essential Questions
 * What are the benefits of testing?

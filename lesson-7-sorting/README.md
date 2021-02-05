@@ -1,10 +1,10 @@
-# Unit 11: Sorting
+# Lesson: Sorting
 
 ## Key Terms
-* insertion sort
-* bubble sort
-* merge sort
-* quick sort
+* Insertion sort
+* Bubble sort
+* Merge sort
+* Quick sort
 
 ## Essential Question
 * What is the algorithm for insertion sort? bubble sort? merge sort? quick sort?
@@ -21,3 +21,7 @@
   * Bubble Sort
   * Merge Sort
   * Quick Sort
+
+## Problem Set
+- [Problem Set: Sorting](https://github.com/The-Marcy-Lab-School/problem-set-x-sorting)
+- [Problem Set: Data Structures Final](https://github.com/The-Marcy-Lab-School/problem-set-x-data-structures-final)
