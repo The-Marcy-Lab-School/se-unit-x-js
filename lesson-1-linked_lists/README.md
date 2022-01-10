@@ -19,8 +19,8 @@
   * Introduction to Data Structures
   * Nodes
   * Singly Linked Lists 
-  * Doubly Linked Lists (Optional)
-  * Linked List Practice (Optional)
+  * Doubly Linked Lists 
+  * Linked List Practice 
 
 ## Problem Set
 * [Problem Set: Linked Lists](https://github.com/The-Marcy-Lab-School/problem-set-x-linked-lists)
