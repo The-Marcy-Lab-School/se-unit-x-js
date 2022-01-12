@@ -18,5 +18,10 @@
   * Stacks
 * Blog: [Deque](https://dev.to/swarup260/data-structures-algorithms-in-javascript-deque-g7b)
 
+## Alternative Learning Assignments
+* [Stack and Queue in JavaScript](https://www.telerik.com/blogs/stack-queue-javascript)
+* [Geeks For Geeks: Implementation of Stack in JavaScript](https://www.geeksforgeeks.org/implementation-stack-javascript/)
+* [Geeks For Geeks: Implementation of Queue in Javascript](https://www.geeksforgeeks.org/implementation-queue-javascript/)
+
 ## Problem Set
 * [Problem Set: Stacks and Queues](https://github.com/The-Marcy-Lab-School/problem-set-x-stacks-queues)
