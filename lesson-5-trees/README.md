@@ -21,9 +21,11 @@
 * Binary search tree
 
 ## Learning Assignments
-1. **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
-  * Trees
-  * Binary Search and Search Trees
+1. **Tutorial:** [Tree data structure in javascript](https://learnersbucket.com/tutorials/data-structures/tree-data-structure-in-javascript/)
+2. **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
+   * Trees
+   * Binary Search and Search Trees
+3. **Tutorial:** [Implementation of Binary Search Tree in Javascript](https://www.geeksforgeeks.org/implementation-binary-search-tree-javascript/)
 
 ## Problem Set
 - [Problem Set: Trees](https://github.com/The-Marcy-Lab-School/problem-set-x-trees)
