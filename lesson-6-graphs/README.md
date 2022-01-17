@@ -17,6 +17,7 @@
 * Adjacency list
 
 ## Learning Assignments
+* **Tutorial:** [Graph Data Structures in JavaScript for Beginners](https://adrianmejia.com/data-structures-for-beginners-graphs-time-complexity-tutorial/)
 * **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
   * Graphs
   * Graph Traversals
