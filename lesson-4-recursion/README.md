@@ -13,7 +13,8 @@
 * Stack overflow
 
 ## Learning Assignments
-3. **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
+1. **Tutorial:** [Recursion and Stack](https://javascript.info/recursion)
+2. **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
   * Recursion
 
 ## Problem Set
