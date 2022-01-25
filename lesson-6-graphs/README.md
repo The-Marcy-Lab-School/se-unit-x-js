@@ -14,7 +14,8 @@
 * Weighted
 * Directed
 * Cycle
-* Adjacency list
+* Adjacency List
+* Adjency Matrix
 
 ## Learning Assignments
 * **Tutorial:** [Graph Data Structures in JavaScript for Beginners](https://adrianmejia.com/data-structures-for-beginners-graphs-time-complexity-tutorial/)
