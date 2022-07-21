@@ -26,6 +26,3 @@
    * Trees
    * Binary Search and Search Trees
 3. **Tutorial:** [Implementation of Binary Search Tree in Javascript](https://www.geeksforgeeks.org/implementation-binary-search-tree-javascript/)
-
-## Problem Set
-- [Problem Set: Trees](https://github.com/The-Marcy-Lab-School/problem-set-x-trees)
