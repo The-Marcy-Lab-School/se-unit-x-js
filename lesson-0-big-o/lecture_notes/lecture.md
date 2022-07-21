@@ -6,7 +6,7 @@
 
 ### Suggested Coding Demo
 
-The following activity will get the students invested in the importance of writing efficent code. You should **code this entire activity from scratch** for fellows to better understand. You should code using Snippets in Chrome developer tools. If fellows are confused, use `debugger` or `console.log` so the fellows to see the data. 
+The following activity will get the students invested in the importance of writing efficent code. You should **code this entire activity from scratch** for fellows to better understand. You should code using Snippets in Chrome developer tools. If fellows are confused, use `debugger` or `console.log` so the fellows can see the data. 
 
 Given a problem: write a function takes in an array and returns the difference between the max number and the min number in the array. 
 
