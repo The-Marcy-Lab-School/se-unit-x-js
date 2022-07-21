@@ -1,4 +1,4 @@
-# Lecture: Big O
+# Lecture Guide: Big O
 
 If taught poorly, this lecture could be incredibly boring. If we spit a bunch of letter and numbers at students, they aren't going to see the value. Do not make the main focus listing all Big-O Notations. O(_n_<sup>2</sup>) is not fun to talk about, much less even say! Instead, spend 80% of lecture investing the students in why they should care about efficient algorithms! 
 
@@ -135,3 +135,14 @@ We say that Algorithm1 is O(_n_ * log _n_) time because the efficency of sorting
 
 Now would be a great time to pull up this [cheatsheet](https://www.bigocheatsheet.com/) so students can see the O(_n_) is a more efficient runtime than O(_n_ * log _n_). **As you explain the rest of the Big-O run times, be sure to always refer back to this chart for the fellows!**
 
+O(1) is constant run time. An example is indexing an array. It doesn't matter if `array` is 10 elemennts or 1,000,000 elements long. Checking `array[1]` is going to take the same amount of time.
+
+O(log _n_) is logarithmic, where each iteration takes half the amoutn of time as the last iteration, like with binary search.
+
+O(_n_) is linear, where each iteration takes the same amount of time as the last iteration.
+
+O(_n_ * log _n_) is log linear. Any sorting algorithm is log linear. 
+
+O(_n_<sup>2</sup>) is quadratic. An algorithm with a nested `for` loop is quadratic. 
+
+O(2<sup>_n_</sup>) or exponential time and O(_n_!) or factorial time are less common. 
