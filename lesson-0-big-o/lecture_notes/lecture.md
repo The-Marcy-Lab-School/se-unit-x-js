@@ -4,7 +4,7 @@ If taught poorly, this lecture could be incredibly boring. If we spit a bunch of
 
 ## Suggested Lecture Flow
 1. Start lecture grounding the fellows in the Why 
-2. Make sure everyone is on the same page with a few key terms: algorithm, time complexity, space complexity. 
+2. Make sure everyone is on the same page with a few key terms: algorithm, time complexity, space complexity 
 3. Invest the fellows with a coding demo
 4. Overview Big-O Notation and the different classes of algorithms
 
