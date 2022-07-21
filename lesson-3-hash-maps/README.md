@@ -19,6 +19,3 @@
 * **Documentation**: [JavaScript Map Class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
 * **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
   * Hashmaps
-
-## Problem Set
-- [Problem Set: Hash Maps](https://github.com/The-Marcy-Lab-School/problem-set-x-hash-maps)
