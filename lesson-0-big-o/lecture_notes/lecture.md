@@ -57,7 +57,7 @@ function maxMinDiff2(nums){
 Can we prove both algorithms are correct solutions? **We should! We should always show the students**
 ```js
 let integers = [4, 2, 8, 3, 9, 2, 1];
-// Make fellows predict what the following invocation will evaluate to given the example above!
+// Make fellows predict what the following invocation will evaluate to in the example above!
 
 console.log(maxMinDiff1(integers)) 
 console.log(maxMinDiff2(integers)) // Both evaluate to 8 because 9 - 1 is 8
