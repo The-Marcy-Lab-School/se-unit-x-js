@@ -1,4 +1,4 @@
-# Lecture: Efficiency and Big O
+# Lecture: Big O
 
 ## The Why
 
