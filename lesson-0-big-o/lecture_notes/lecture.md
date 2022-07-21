@@ -30,7 +30,7 @@ function maxMinDiff1(nums){
 function maxMinDiff2(nums){
   let largest = nums[0];
   let smallest = nums[0];
-  for(number of nums){ 
+  for(number of nums){ // Might be nice reviewing for...of loops as an alternative to for loops, but for loops works too!
     if(number > largest){
       largest = number
     } else if (number < smallest){
