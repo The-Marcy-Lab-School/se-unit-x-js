@@ -27,6 +27,3 @@
 * [Bubble Sort](https://www.youtube.com/watch?v=xli_FI7CuzA)
 * [Merge Sort](https://www.youtube.com/watch?v=4VqmGXwpLqc)
 * [Quick Sort](https://www.youtube.com/watch?v=Hoixgm4-P4M)
-
-## Problem Set
-- [Problem Set: Sorting](https://github.com/The-Marcy-Lab-School/problem-set-x-sorting)
