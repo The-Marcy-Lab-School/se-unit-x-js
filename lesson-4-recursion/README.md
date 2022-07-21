@@ -17,6 +17,3 @@
 
 2. **Codecademy:** [Pass the Technical Interview with JavaScript](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-javascript)
     * Recursion
-
-## Problem Set
-- [Problem Set: Recursion](https://github.com/The-Marcy-Lab-School/problem-set-x-recursion)
