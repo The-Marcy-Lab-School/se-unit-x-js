@@ -25,7 +25,3 @@
 ## Alternative Learning Assignments
 * [How to Implement a Linked List in JavaScript](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/)
 * [Geeks for Geeks: Implementation of LinkedList in Javascript](https://www.geeksforgeeks.org/implementation-linkedlist-javascript/)
-
-## Problem Set
-* [Problem Set: Linked Lists](https://github.com/The-Marcy-Lab-School/problem-set-x-linked-lists)
-
