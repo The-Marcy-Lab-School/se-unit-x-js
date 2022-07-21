@@ -8,7 +8,7 @@
 
 The following activity will get the students invested in the importance of writing efficent code. You should **code this entire activity from scratch** for fellows to better understand. You should code using Snippets in Chrome developer tools. If fellows are confused, use `debugger` or `console.log` so the fellows can see the data. 
 
-Given a problem: write a function takes in an array and returns the difference between the max number and the min number in the array. 
+Given a problem: write a function that takes in an array and returns the difference between the max number and the min number in the array. 
 
 There are many algorithms we can use solve this problem! (Optionally, you can have students come up with their own algorithms before revealing the two below):
 1. Sort the array and return the difference between the last and first element: `array[array.length - 1] - array[0]`
