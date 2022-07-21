@@ -1,10 +1,23 @@
 # Lecture: Big O
 
-## The Why
+If taught poorly, this lecture could be incredibly boring. If we spit a bunch of letter and numbers at students, they aren't going to see the value. Do not make the main focus listing all Big-O Notations. O(_n_<sup>2</sup>) is not fun to talk about, much less even say! Instead, spend 80% of lecture investing the students in why they should care about efficient algorithms! 
 
-### What should the focus of lecture be?
+## Suggested Lecture Flow
+1. Start lecture grounding the fellows in the Why 
+2. Make sure everyone is on the same page with a few key terms: algorithm, time complexity, space complexity. 
+3. Invest the fellows with a coding demo
+4. Overview Big-O Notation and the different classes of algorithms
 
-### Suggested Coding Demo
+### 1. The Why
+
+This lesson is important because it introduces students to the concept of efficient algorithms and gives them a language and **terminology for how to communicate** this to their peers. We teach fellows that words are their world, and in tech, they need to understand this lingo in order to communicate their knowledge of writing *scalable* code. Companies don't want just any developers, they want developers who can write efficient code!
+
+### 2. Important Terms and Concepts
+
+**What is an algorithm?** Is it a list of steps or set of rules to be followed. 
+**How do we measure the efficiency of an algorithm?** There are two main ways. Time complexity refers to how fast an algorithm is; the faster an application runs on your computer, the better! Space complexity refers to how much memory an algorithm takes up; the less memoery an application takes up on your computer, the better!
+
+### 3. Coding Demo
 
 The following activity will get the students invested in the importance of writing efficent code. You should **code this entire activity from scratch** for fellows to better understand. You should code using Snippets in Chrome developer tools. If fellows are confused, use `debugger` or `console.log` so the fellows can see the data. 
 
@@ -106,8 +119,5 @@ console.timeEnd("Algorithm 2");
 
 // When we add another 0, the data set is 1,000,000! There's a huge difference. Keep adding one more 0 to the data size and show the students what happens!
 ```
-If you keep making the data set biggest, you'll get to the point where you computer stalls, as if it broke for a good 2-10 seconds. **This shock value is what we want the fellows to walk away with**
-
-## So What?
-When they are first learning to code, they want to make code that works. One day, when they are working for Facebook, who has millions of users, they need to be thoughtful and try to write code that not only works, but is efficient in speed (run time complexity) and memory (space complexity)!
+If you keep making the data set biggest, you'll get to the point where you computer stalls, as if it broke for a good 2-10 seconds. **This shock value is what we want the fellows to walk away with**. When they are first learning to code, they want to make code that works. One day, when they are working for Facebook, who has millions of users, they need to be thoughtful and try to write code that not only works, but is efficient in speed (run time complexity) and memory (space complexity)!
 
