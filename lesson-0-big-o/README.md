@@ -10,6 +10,7 @@
 * Big-O Notation
 * Runtime Complexity
 * Space Complexity
+* O(_1_) - constant time
 * O(_n_) - linear time
 * O(_n_<sup>2</sup>) - quadratic time
 * O(log _n_) - log time
