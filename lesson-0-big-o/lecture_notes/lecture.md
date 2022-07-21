@@ -12,7 +12,7 @@ Given a problem: write a function that takes in an array of numbers and returns 
 
 There are many algorithms we can use solve this problem! (Optionally, you can have students come up with their own algorithms before revealing the two below):
 1. Sort the array and return the difference between the last and first element: `array[array.length - 1] - array[0]`
-2. Iterated through the array keeping track of the largest and smallest numbers seens. At the end, return the difference between the largest and smallest values.
+2. Iterated through the array keeping track of the largest and smallest numbers seen. At the end, return the difference between the largest and smallest values.
 
 Which algorithm is better? and why?
 
