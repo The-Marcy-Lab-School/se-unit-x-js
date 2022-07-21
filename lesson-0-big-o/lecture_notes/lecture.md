@@ -50,4 +50,57 @@ console.log(maxMinDiff1(integers))
 console.log(maxMinDiff2(integers)) // Both evaluate to 8 because 9 - 1 is 8
 ```
 
+So which is algorithm is better? Now's a great chance to explain to fellows that in coding, what is "better" is subjective! **Coding is all about tradeoffs**. Students might have noticed that Algorithm1 is shorter! Shorter code is better, right? Sometimes...
 
+But Algorithm2 is more **time efficient**. That doesn't mean it's always faster. But it will get faster as the data set scales and gets bigger.
+```js
+integers = [4, 2, 8, 3, 9, 2, 1];
+
+console.time("Algorithm 1");
+maxMinDiff1(integers);
+console.timeEnd("Algorithm 1");
+// Algorithm 1: 0.077880859375 ms
+
+console.time("Algorithm 2");
+maxMinDiff2(integers);
+console.timeEnd("Algorithm 2");
+// Algorithm 2: 0.121826171875 ms
+
+//Algorithm 2 is actually slower here when the data size is 7 numbers!
+```
+```js
+integers = [];
+for(let i = 0; i < 100000; i++){
+  integers.push(Math.random() * 100)
+}
+
+console.time("Algorithm 1");
+maxMinDiff1(integers);
+console.timeEnd("Algorithm 1");
+// Algorithm 1: 64.5986328125 ms
+
+console.time("Algorithm 2");
+maxMinDiff2(integers);
+console.timeEnd("Algorithm 2");
+// Algorithm 2: 3.208984375 ms
+
+// Algorithm 2 is way faster here when the data size is 100,000 numbers!
+```
+```js
+integers = [];
+for(let i = 0; i < 1000000; i++){
+  integers.push(Math.random() * 100)
+}
+
+console.time("Algorithm 1");
+maxMinDiff1(integers);
+console.timeEnd("Algorithm 1");
+// Algorithm 1: 457.02783203125 ms
+
+console.time("Algorithm 2");
+maxMinDiff2(integers);
+console.timeEnd("Algorithm 2");
+// Algorithm 2: 15.061279296875 ms
+
+// When we add another 0, the data set is 1,000,000! There's a huge difference. Keep adding one more 0 to ehe data size and show the students what happens!
+```
