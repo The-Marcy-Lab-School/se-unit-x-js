@@ -132,7 +132,6 @@ Define **Big-O Notation**. It is a way to describe how an algorithm will scale a
     * We say that Algorithm1 is O(_n_ * log _n_) time because the efficency of sorting is O(_n_ * log _n_) time.
 
 Now would be a great time to pull up this [cheatsheet](https://www.bigocheatsheet.com/) so students can see the O(_n_) is a more efficient runtime than O(_n_ * log _n_). **As you explain the rest of the Big-O run times, be sure to always refer back to this chart for the fellows!**
-
     * O(1) is constant run time. An example is indexing an array. It doesn't matter if `array` is 10 elements or 1,000,000 elements long. Checking `array[1]` is going to take the same amount of time.
     * O(log _n_) is logarithmic, where each iteration takes half the amount of time as the last iteration, like with binary search.
     * O(_n_) is linear, where each iteration takes the same amount of time as the last iteration.
