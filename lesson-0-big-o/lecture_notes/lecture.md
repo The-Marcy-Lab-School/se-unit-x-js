@@ -119,5 +119,19 @@ console.timeEnd("Algorithm 2");
 
 // When we add another 0, the data set is 1,000,000! There's a huge difference. Keep adding one more 0 to the data size and show the students what happens!
 ```
-If you keep making the data set biggest, you'll get to the point where you computer stalls, as if it broke for a good 2-10 seconds. **This shock value is what we want the fellows to walk away with**. When they are first learning to code, they want to make code that works. One day, when they are working for Facebook, who has millions of users, they need to be thoughtful and try to write code that not only works, but is efficient in speed (run time complexity) and memory (space complexity)!
+If you keep making the data set biggest, you'll get to the point where you computer stalls, as if it broke for a good 2-10 seconds. **This shock value is what we want the fellows to walk away with**. 
+
+When they are first learning to code, they want to make code that works. One day, when they are working for Facebook, who has millions of users, they need to be thoughtful and try to write code that not only works, but is efficient in speed (run time complexity) and memory (space complexity)!
+
+This is as heavy activity, so make space for fellows to decompress and ask questions before jumping into the last part of lecture.
+
+### 4. Big O Notation 
+
+Define **Big-O Notation**. It is a way to describe how an algorithm will scale as the data set gets bigger. 
+
+We say that Algorithm2 is O(_n_) aka linear time, because as the size of the array grows, the number of operations the computer has to do will grow linearly. In other words, for each additional element in the array, the computer does one additional loop.
+
+We say that Algorithm1 is O(_n_ * log _n_) time because the efficency of sorting is O(_n_ * log _n_) time.
+
+Now would be a great time to pull up this [cheatsheet](https://www.bigocheatsheet.com/) so students can see the O(_n_) is a more efficient runtime than O(_n_ * log _n_). **As you explain the rest of the Big-O run times, be sure to always refer back to this chart for the fellows!**
 
