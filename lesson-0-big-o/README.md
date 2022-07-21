@@ -14,7 +14,8 @@
 * O(_n_) - linear time
 * O(_n_<sup>2</sup>) - quadratic time
 * O(log _n_) - log time
-* O(_n_ * log _n_) time
+* O(_n_ * log _n_) - log linear time
+* O(2<sup>_n_</sup>) - exponential time
 * O(_n_!) - factorial time
 
 ## Learning Assignments
