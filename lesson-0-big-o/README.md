@@ -8,7 +8,8 @@
 
 ## Key Terms
 * Big-O Notation
-* Runtime complexity
+* Runtime Complexity
+* Space Complexity
 * O(_n_) - linear time
 * O(_n_<sup>2</sup>) - quadratic time
 * O(log _n_) - log time
