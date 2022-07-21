@@ -128,21 +128,19 @@ This is as heavy activity, so make space for fellows to decompress and ask quest
 ### 4. Big O Notation 
 
 Define **Big-O Notation**. It is a way to describe how an algorithm will scale as the data set gets bigger. 
-
-We say that Algorithm2 is O(_n_) aka linear time, because as the size of the array grows, the number of operations the computer has to do will grow linearly. In other words, for each additional element in the array, the computer does one additional loop.
-
-We say that Algorithm1 is O(_n_ * log _n_) time because the efficency of sorting is O(_n_ * log _n_) time.
+    * We say that Algorithm2 is O(_n_) aka linear time, because as the size of the array grows, the number of operations the computer has to do will grow linearly. In other words, for each additional element in the array, the computer does one additional loop.
+    * We say that Algorithm1 is O(_n_ * log _n_) time because the efficency of sorting is O(_n_ * log _n_) time.
 
 Now would be a great time to pull up this [cheatsheet](https://www.bigocheatsheet.com/) so students can see the O(_n_) is a more efficient runtime than O(_n_ * log _n_). **As you explain the rest of the Big-O run times, be sure to always refer back to this chart for the fellows!**
 
-O(1) is constant run time. An example is indexing an array. It doesn't matter if `array` is 10 elemennts or 1,000,000 elements long. Checking `array[1]` is going to take the same amount of time.
+    * O(1) is constant run time. An example is indexing an array. It doesn't matter if `array` is 10 elemennts or 1,000,000 elements long. Checking `array[1]` is going to take the same amount of time.
 
-O(log _n_) is logarithmic, where each iteration takes half the amount of time as the last iteration, like with binary search.
+    * O(log _n_) is logarithmic, where each iteration takes half the amount of time as the last iteration, like with binary search.
 
-O(_n_) is linear, where each iteration takes the same amount of time as the last iteration.
+    * O(_n_) is linear, where each iteration takes the same amount of time as the last iteration.
 
-O(_n_ * log _n_) is log linear. Any sorting algorithm is log linear. 
+    * O(_n_ * log _n_) is log linear. Any sorting algorithm is log linear. 
 
-O(_n_<sup>2</sup>) is quadratic. An algorithm with a nested `for` loop is quadratic. 
+    * O(_n_<sup>2</sup>) is quadratic. An algorithm with a nested `for` loop is quadratic. 
 
-O(2<sup>_n_</sup>) or exponential time and O(_n_!) or factorial time are less common. 
+    * O(2<sup>_n_</sup>) or exponential time and O(_n_!) or factorial time are less common. 
