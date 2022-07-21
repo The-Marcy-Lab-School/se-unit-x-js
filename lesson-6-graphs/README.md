@@ -23,6 +23,3 @@
   * Graphs
   * Graph Traversals
   * Dijkstra’s Algorithm
-
-## Problem Set
-- [Problem Set: Graphs](https://github.com/The-Marcy-Lab-School/problem-set-x-graphs)
