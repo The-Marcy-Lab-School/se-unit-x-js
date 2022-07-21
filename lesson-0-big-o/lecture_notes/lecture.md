@@ -69,6 +69,7 @@ console.timeEnd("Algorithm 2");
 //Algorithm 2 is actually slower here when the data size is 7 numbers!
 ```
 ```js
+// Reassign integers to be an array of 100,000 random numbers
 integers = [];
 for(let i = 0; i < 100000; i++){
   integers.push(Math.random() * 100)
@@ -87,6 +88,7 @@ console.timeEnd("Algorithm 2");
 // Algorithm 2 is way faster here when the data size is 100,000 numbers!
 ```
 ```js
+// Reassign integers to be an array of 1,000,000 random numbers!!
 integers = [];
 for(let i = 0; i < 1000000; i++){
   integers.push(Math.random() * 100)
