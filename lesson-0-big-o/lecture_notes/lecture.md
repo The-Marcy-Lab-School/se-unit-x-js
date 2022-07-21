@@ -102,5 +102,10 @@ maxMinDiff2(integers);
 console.timeEnd("Algorithm 2");
 // Algorithm 2: 15.061279296875 ms
 
-// When we add another 0, the data set is 1,000,000! There's a huge difference. Keep adding one more 0 to ehe data size and show the students what happens!
+// When we add another 0, the data set is 1,000,000! There's a huge difference. Keep adding one more 0 to the data size and show the students what happens!
 ```
+If you keep making the data set biggest, you'll get to the point where you computer stalls, as if it broke for a good 2-10 seconds. **This shock value is what we want the fellows to walk away with**
+
+## So What?
+When they are first learning to code, they want to make code that works. One day, when they are working for Facebook, who has millions of users, they need to be thoughtful and try to write code that not only works, but is efficient in speed (run time complexity) and memory (space complexity)!
+
